@@ -28,6 +28,7 @@ void print_vector(const vector<string>& str_v)
 		cout << str << endl;
 }
 int main()
+try
 {
 	cout << "Input string with whitespaces: ";
 	string whitespaces;
@@ -42,4 +43,12 @@ int main()
 		print_vector(result_vector);
 		cout << "Input another string: ";
 	}
+}
+catch (exception& e)
+{
+	cerr << e.what() << endl;
+}
+catch (...)
+{
+	cerr << "Exception!" << endl;
 }
