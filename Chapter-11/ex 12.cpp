@@ -1,5 +1,8 @@
 /*
 Okay, so here I have a bug: in input like "ab/n  cd" some 1 character just goes nowhere...
+
+Here is a discussion about an issue:
+http://www.cplusplus.com/forum/general/120661/
 */
 
 
