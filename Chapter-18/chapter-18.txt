@@ -1,0 +1,2 @@
+I have posponed the last exercise(number 12 - "Hunt the Wumpus") because I'm really excited with this algorithms and data structures things
+and I don't want to waste time on implementation of this game right now). I'll do it later when I feel that I need some practice.
